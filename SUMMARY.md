@@ -75,6 +75,7 @@
   * [Baby BLT](recipes-and-cooking-procedures/sandwiches/baby-blt.md)
   * [Turkey Triangle](recipes-and-cooking-procedures/sandwiches/turkey-triangle.md)
   * [PBJ](recipes-and-cooking-procedures/sandwiches/pbj.md)
+* [Catering Recipes](recipes-and-cooking-procedures/catering-recipes.md)
 * [Ice Cream](recipes-and-cooking-procedures/ice-cream/README.md)
   * [Banana Split](recipes-and-cooking-procedures/ice-cream/banana-split.md)
   * [Banana Royal](recipes-and-cooking-procedures/ice-cream/banana-royal.md)
@@ -93,4 +94,6 @@
   * [Luwak Frappe](recipes-and-cooking-procedures/coffee-drinks/luwak-frappe.md)
   * [Cafe Latte](recipes-and-cooking-procedures/coffee-drinks/cafe-latte.md)
   * [Cappuccino](recipes-and-cooking-procedures/coffee-drinks/cappuccino.md)
+  * [Café Mocha](recipes-and-cooking-procedures/coffee-drinks/cafe-mocha.md)
+  * [Flavored Latte](recipes-and-cooking-procedures/coffee-drinks/flavored-latte.md)
 
