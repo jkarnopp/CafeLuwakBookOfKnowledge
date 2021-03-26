@@ -16,11 +16,18 @@
   * [Potato Salad](recipes-and-cooking-procedures/sides-and-salads/potato-salad.md)
   * [Coleslaw](recipes-and-cooking-procedures/sides-and-salads/coleslaw.md)
   * [Tuna Salad](recipes-and-cooking-procedures/sides-and-salads/tuna-salad.md)
-* [Untitled](recipes-and-cooking-procedures/untitled.md)
+  * [Chicken Salad](recipes-and-cooking-procedures/sides-and-salads/chicken-salad.md)
+  * [Macaroni and Cheese](recipes-and-cooking-procedures/sides-and-salads/macaroni-and-cheese.md)
 * [Dressings](recipes-and-cooking-procedures/dressings.md)
 * [Soups](recipes-and-cooking-procedures/soups.md)
 * [Miscellaneous Items](recipes-and-cooking-procedures/miscellaneous-items/README.md)
   * [Deli Dust](recipes-and-cooking-procedures/miscellaneous-items/deli-dust.md)
   * [Croutons](recipes-and-cooking-procedures/miscellaneous-items/croutons.md)
   * [Brisket Rub](recipes-and-cooking-procedures/miscellaneous-items/brisket-rub.md)
+
+---
+
+* [Sandwiches](sandwiches.md)
+* [\# 1 MARNEY’S DELIGHT](1-marneys-delight.md)
+* [\# 2 TOM’S CHOICE](2-toms-choice.md)
 
