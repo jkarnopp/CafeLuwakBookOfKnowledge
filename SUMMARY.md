@@ -88,4 +88,9 @@
   * [Boston Cooler](recipes-and-cooking-procedures/ice-cream/boston-cooler.md)
   * [Brown Cow](recipes-and-cooking-procedures/ice-cream/brown-cow.md)
   * [Black Cow](recipes-and-cooking-procedures/ice-cream/black-cow.md)
+* [Coffee Drinks](recipes-and-cooking-procedures/coffee-drinks/README.md)
+  * [Steamed Milk](recipes-and-cooking-procedures/coffee-drinks/steamed-milk.md)
+  * [Luwak Frappe](recipes-and-cooking-procedures/coffee-drinks/luwak-frappe.md)
+  * [Cafe Latte](recipes-and-cooking-procedures/coffee-drinks/cafe-latte.md)
+  * [Cappuccino](recipes-and-cooking-procedures/coffee-drinks/cappuccino.md)
 
