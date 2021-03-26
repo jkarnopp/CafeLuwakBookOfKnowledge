@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [About the Cafe](README.md)
 
 ## Recipes and Cooking Procedures
 
@@ -10,7 +10,13 @@
   * [Corned Beef Cooking Procedure](recipes-and-cooking-procedures/meats-and-poultry/corned-beef-cooking-procedure.md)
   * [Barbeque Beef](recipes-and-cooking-procedures/meats-and-poultry/barbeque-beef.md)
   * [Beer Braised BBQ Pork Butt](recipes-and-cooking-procedures/meats-and-poultry/beer-braised-bbq-pork-butt.md)
-* [Sides and Salads](recipes-and-cooking-procedures/sides-and-salads.md)
+* [Sides and Salads](recipes-and-cooking-procedures/sides-and-salads/README.md)
+  * [Thai Noodle Salad](recipes-and-cooking-procedures/sides-and-salads/thai-noodle-salad.md)
+  * [Pasta Salad](recipes-and-cooking-procedures/sides-and-salads/pasta-salad.md)
+  * [Potato Salad](recipes-and-cooking-procedures/sides-and-salads/potato-salad.md)
+  * [Coleslaw](recipes-and-cooking-procedures/sides-and-salads/coleslaw.md)
+  * [Tuna Salad](recipes-and-cooking-procedures/sides-and-salads/tuna-salad.md)
+* [Untitled](recipes-and-cooking-procedures/untitled.md)
 * [Dressings](recipes-and-cooking-procedures/dressings.md)
 * [Soups](recipes-and-cooking-procedures/soups.md)
 * [Miscellaneous Items](recipes-and-cooking-procedures/miscellaneous-items/README.md)
