@@ -4,7 +4,9 @@
 
 ## Recipes and Cooking Procedures
 
-* [Meats and Poultry](recipes-and-cooking-procedures/meats-and-poultry.md)
+* [Meats and Poultry](recipes-and-cooking-procedures/meats-and-poultry/README.md)
+  * [Roast Turkey Cooking Procedure](recipes-and-cooking-procedures/meats-and-poultry/roast-turkey-cooking-procedure.md)
+  * [Roast Beef Cooking Procedure](recipes-and-cooking-procedures/meats-and-poultry/roast-beef-cooking-procedure.md)
 * [Sides and Salads](recipes-and-cooking-procedures/sides-and-salads.md)
 * [Dressings](recipes-and-cooking-procedures/dressings.md)
 * [Soups](recipes-and-cooking-procedures/soups.md)
