@@ -30,4 +30,5 @@
 * [Sandwiches](sandwiches.md)
 * [\# 1 MARNEY’S DELIGHT](1-marneys-delight.md)
 * [\# 2 TOM’S CHOICE](2-toms-choice.md)
+* [\# 3 CALIFORNIA WAVES](3-california-waves.md)
 
