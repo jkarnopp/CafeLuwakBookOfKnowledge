@@ -85,4 +85,7 @@
   * [Malted Milkshake](recipes-and-cooking-procedures/ice-cream/malted-milkshake.md)
   * [Mocha Espresso Shake](recipes-and-cooking-procedures/ice-cream/mocha-espresso-shake.md)
   * [Mocha Jamocha Shake](recipes-and-cooking-procedures/ice-cream/mocha-jamocha-shake.md)
+  * [Boston Cooler](recipes-and-cooking-procedures/ice-cream/boston-cooler.md)
+  * [Brown Cow](recipes-and-cooking-procedures/ice-cream/brown-cow.md)
+  * [Black Cow](recipes-and-cooking-procedures/ice-cream/black-cow.md)
 
